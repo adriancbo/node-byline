@@ -18,7 +18,7 @@
   "main": "./lib/byline.js",
   "devDependencies": {
     "mocha": "~2.1.0",
-    "request": "~2.27.0"
+    "request": "~2.88.2"
   },
   "scripts": {
     "test": "mocha -R spec --timeout 60000"
